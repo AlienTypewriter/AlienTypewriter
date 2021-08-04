@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlienTypewriter
+- 👀 I’m interested in pretty much anything, from web to desktop to AI.
+- 🌱 I’m currently learning Python. By the measure of using it.
+- 💞️ I’m looking to collaborate on... nothing, really. I'm currently not involved in a community coding effort, although that might change.
+- 📫 How to reach me -- I prefer to be contacted solely on Telegram at @IHaveErred. You might be able to find my FB using my name from there, but I would advise you not to.
